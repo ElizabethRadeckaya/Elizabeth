@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1563.93"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-783.118896 -707.283264 1563.930054 1439.283203"
+     height="1439.2832" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="9.5" cx="-324.38257"
+                class="id_Cлон" cy="388.33154" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="24.5" cx="275.86984"
+                class="id_Горбач" cy="118.66954" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="11.0" cx="259.67075"
+                class="id_Рекс" cy="369.72626" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="15.5" cx="75.915115"
+                class="id_Стервятник" cy="-43.804752" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="26.0" cx="-313.32953"
+                class="id_Черный" cy="110.99135" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="9.5" cx="690.8172"
+                class="id_Акула" cy="185.78888" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="9.5" cx="609.80963"
+                class="id_Гомер" cy="398.1539" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="36.5" cx="80.095604"
+                class="id_Курильщик" cy="165.3777" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="20.0" cx="28.716982"
+                class="id_Лорд" cy="356.02844" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="8.0" cx="115.423904"
+                class="id_Ящик" cy="543.3919" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="5.0" cx="388.7076"
+                class="id_Ведьма" cy="-329.59174" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="45.5" cx="-85.92057"
+                class="id_Сфинкс" cy="-240.28677" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="20.0" cx="-286.06656"
+                class="id_Волк" cy="-142.11728" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="15.5" cx="-423.7907"
+                class="id_Лось" cy="-567.2337" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="23.0" cx="292.01"
+                class="id_Слепой" cy="-100.665596" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="9.5" cx="-494.609"
+                class="id_Красавица" cy="-208.68369" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="6.5" cx="-489.7363"
+                class="id_Пузырь" cy="247.33577" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="12.5" cx="4.5731654"
+                class="id_Пышка" cy="-443.1294" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="9.5" cx="-339.22757"
+                class="id_Сестра_Агата" cy="-359.89038" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="21.5" cx="-152.22752"
+                class="id_Табаки" cy="232.30261" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="11.0" cx="-495.82074"
+                class="id_Фокусник" cy="8.354526" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="15.5" cx="142.28539"
+                class="id_Лэри" cy="-249.35838" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="15.5" cx="211.92831"
+                class="id_Македонский" cy="-455.2757" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="8.0" cx="-125.14371"
+                class="id_Толстый" cy="-2.811905" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="6.5" cx="-177.28925"
+                class="id_Джин" cy="696.456" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="11.0" cx="447.59497"
+                class="id_Фазаны" cy="531.75146" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="8.0" cx="-707.83026"
+                class="id_Зануда" cy="15.659669" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="8.0" cx="-143.81857"
+                class="id_Плакса" cy="492.7676" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="5.0" cx="42.610035"
+                class="id_Конь" cy="725.5156" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="9.5" cx="-557.3076"
+                class="id_Кролик" cy="456.204" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="9.5" cx="446.43457"
+                class="id_Крысы" cy="273.32645" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="9.5" cx="720.2389"
+                class="id_Птицы" cy="-43.753876" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="15.5" cx="505.96295"
+                class="id_Рыжий" cy="-138.12547" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="5.0" cx="-384.99738"
+                class="id_Мартышка" cy="605.7674" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="11.0" cx="287.88333"
+                class="id_Помпей" cy="649.72626" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="6.5" cx="-15.898406"
+                class="id_Четвёртая" cy="-690.29376" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="5.0" cx="546.7532"
+                class="id_Лавр" cy="-467.9845" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="8.0" cx="-688.2376"
+                class="id_Ральф" cy="231.19208" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="9.5" cx="-697.18744"
+                class="id_Щепка" cy="-207.41508" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="8.0" cx="-230.19753"
+                class="id_Ян" cy="-693.8974" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="8.0" cx="662.80536"
+                class="id_Мальчик-1" cy="-280.34518" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="8.0" cx="379.55756"
+                class="id_Мальчик-2" cy="-605.71674" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="8.0" cx="182.1961"
+                class="id_Мальчик-3" cy="-688.90594" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="6.5" cx="506.91205"
+                class="id_Рыжая" cy="65.49255" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="5.0" cx="-585.6131"
+                class="id_Седой" cy="-421.48312" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d6d9ff" r="9.5" cx="-186.14093"
+                class="id_Хламовник" cy="-487.54126" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+    </g>
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -324.382568,388.331543 C -258.264465,214.348648 101.886948,52.551453 275.869843,118.669540"
+              class="id_Cлон id_Горбач" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -324.382568,388.331543 C -211.292953,267.799805 139.139023,256.636658 259.670746,369.726257"
+              class="id_Cлон id_Рекс" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -324.382568,388.331543 C -330.750305,221.844757 -90.571678,-37.437023 75.915115,-43.804752"
+              class="id_Cлон id_Стервятник" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -324.382568,388.331543 C -377.640015,330.652893 -371.008179,164.248795 -313.329529,110.991348"
+              class="id_Cлон id_Черный" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 690.817200,185.788879 C 717.088684,244.463394 668.484192,371.882416 609.809631,398.153900"
+              class="id_Акула id_Гомер" stroke-opacity="1.0" stroke="#dce2ef"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 690.817200,185.788879 C 564.590637,303.850952 198.157700,291.604248 80.095604,165.377701"
+              class="id_Акула id_Курильщик" stroke-opacity="1.0"
+              stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 690.817200,185.788879 C 592.445068,352.256836 195.184937,454.400574 28.716982,356.028442"
+              class="id_Акула id_Лорд" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 690.817200,185.788879 C 647.259155,372.388123 302.023163,586.949951 115.423904,543.391907"
+              class="id_Акула id_Ящик" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 388.707611,-329.591736 C 311.642975,-216.805115 26.866058,-163.222137 -85.920570,-240.286774"
+              class="id_Ведьма id_Сфинкс" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -286.066559,-142.117279 C -398.634674,-199.595734 -481.269165,-454.665588 -423.790710,-567.233704"
+              class="id_Волк id_Лось" stroke-opacity="1.0" stroke="#d1dcec"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -286.066559,-142.117279 C -162.160889,-249.442261 184.685028,-224.571259 292.010010,-100.665596"
+              class="id_Волк id_Слепой" stroke-opacity="1.0" stroke="#d1dcec"/>
+        <path fill="none" stroke-width="15.0"
+              d="M -286.066559,-142.117279 C -265.671265,-201.780365 -145.583664,-260.682068 -85.920570,-240.286774"
+              class="id_Волк id_Сфинкс" stroke-opacity="1.0" stroke="#619bc4"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -286.066559,-142.117279 C -121.521912,-202.347198 215.639923,-45.875107 275.869843,118.669540"
+              class="id_Волк id_Горбач" stroke-opacity="1.0" stroke="#c7d7e8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -286.066559,-142.117279 C -341.088348,-113.722069 -466.213806,-153.661926 -494.609009,-208.683685"
+              class="id_Волк id_Красавица" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -286.066559,-142.117279 C -248.909882,-23.492714 -371.111725,210.179108 -489.736298,247.335770"
+              class="id_Волк id_Пузырь" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -286.066559,-142.117279 C -288.141052,-260.447632 -113.757202,-441.054901 4.573165,-443.129395"
+              class="id_Волк id_Пышка" stroke-opacity="1.0" stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -286.066559,-142.117279 C -340.253387,-175.039703 -372.149994,-305.703552 -339.227570,-359.890381"
+              class="id_Волк id_Сестра_Агата" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -286.066559,-142.117279 C -184.414749,-94.001099 -104.111343,130.650818 -152.227524,232.302612"
+              class="id_Волк id_Табаки" stroke-opacity="1.0" stroke="#dce2ef"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -286.066559,-142.117279 C -297.923035,-70.072083 -423.775543,20.211002 -495.820740,8.354526"
+              class="id_Волк id_Фокусник" stroke-opacity="1.0" stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -286.066559,-142.117279 C -240.897430,-86.042961 -257.255188,65.822212 -313.329529,110.991348"
+              class="id_Волк id_Черный" stroke-opacity="1.0" stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 609.809631,398.153900 C 457.311584,457.541473 139.483185,317.875732 80.095604,165.377701"
+              class="id_Гомер id_Курильщик" stroke-opacity="1.0"
+              stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 609.809631,398.153900 C 485.166016,505.947357 136.510422,480.672058 28.716982,356.028442"
+              class="id_Гомер id_Лорд" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 609.809631,398.153900 C 539.980103,526.078674 243.348663,613.221436 115.423904,543.391907"
+              class="id_Гомер id_Ящик" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 275.869843,118.669540 C 246.056625,167.166016 128.592087,195.190918 80.095604,165.377701"
+              class="id_Горбач id_Курильщик" stroke-opacity="1.0"
+              stroke="#b2cbe2"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 275.869843,118.669540 C 273.911041,215.571899 125.619339,357.987244 28.716982,356.028442"
+              class="id_Горбач id_Лорд" stroke-opacity="1.0" stroke="#dce2ef"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 275.869843,118.669540 C 175.547363,71.780838 95.396683,-149.035904 142.285385,-249.358383"
+              class="id_Горбач id_Лэри" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 275.869843,118.669540 C 148.292496,16.668798 109.927567,-327.698334 211.928314,-455.275696"
+              class="id_Горбач id_Македонский" stroke-opacity="1.0"
+              stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 275.869843,118.669540 C 322.841370,172.120712 313.121887,322.754730 259.670746,369.726257"
+              class="id_Горбач id_Рекс" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 275.869843,118.669540 C 235.230835,71.574478 244.914948,-60.026604 292.010010,-100.665596"
+              class="id_Горбач id_Слепой" stroke-opacity="1.0" stroke="#dce2ef"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 275.869843,118.669540 C 203.384033,126.165634 83.411209,28.681053 75.915115,-43.804752"
+              class="id_Горбач id_Стервятник" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 275.869843,118.669540 C 131.720505,119.236359 -85.353752,-96.137436 -85.920570,-240.286774"
+              class="id_Горбач id_Сфинкс" stroke-opacity="1.0" stroke="#bcd1e5"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 275.869843,118.669540 C 212.976974,227.015625 -43.881439,295.195465 -152.227524,232.302612"
+              class="id_Горбач id_Табаки" stroke-opacity="1.0" stroke="#b2cbe2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 275.869843,118.669540 C 171.370834,174.575958 -69.237282,101.687096 -125.143707,-2.811905"
+              class="id_Горбач id_Толстый" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 275.869843,118.669540 C 99.468719,250.944656 -363.545593,184.755646 -495.820740,8.354526"
+              class="id_Горбач id_Фокусник" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 275.869843,118.669540 C 156.494324,234.973770 -197.025299,230.366852 -313.329529,110.991348"
+              class="id_Горбач id_Черный" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -177.289246,696.455994 C -232.027939,538.763367 -77.597031,220.116409 80.095604,165.377701"
+              class="id_Джин id_Курильщик" stroke-opacity="1.0" stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -177.289246,696.455994 C -85.253311,538.538208 289.677216,439.715546 447.594971,531.751465"
+              class="id_Джин id_Фазаны" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -707.830261,15.659669 C -499.606293,-1.721085 -161.199310,284.543671 -143.818573,492.767609"
+              class="id_Зануда id_Плакса" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -707.830261,15.659669 C -657.107361,-218.578842 -229.665344,-493.852295 4.573165,-443.129395"
+              class="id_Зануда id_Пышка" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -707.830261,15.659669 C -609.863770,-44.174141 -373.163330,13.024864 -313.329529,110.991348"
+              class="id_Зануда id_Черный" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 42.610035,725.515625 C -132.429703,510.605774 -72.624496,-74.318649 142.285385,-249.358383"
+              class="id_Конь id_Лэри" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -494.609009,-208.683685 C -552.155334,-294.557343 -509.664368,-509.687347 -423.790710,-567.233704"
+              class="id_Красавица id_Лось" stroke-opacity="1.0" stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -494.609009,-208.683685 C -419.191925,-296.742004 -173.978882,-315.703857 -85.920570,-240.286774"
+              class="id_Красавица id_Сфинкс" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -494.609009,-208.683685 C -337.935455,-188.962708 -132.506561,75.629051 -152.227524,232.302612"
+              class="id_Красавица id_Табаки" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -557.307617,456.204010 C -487.992218,270.558105 -105.550308,96.062317 80.095604,165.377701"
+              class="id_Кролик id_Курильщик" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -557.307617,456.204010 C -460.137817,318.963959 -108.523056,258.858643 28.716982,356.028442"
+              class="id_Кролик id_Лорд" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -557.307617,456.204010 C -521.071899,330.407715 -278.023834,196.066864 -152.227524,232.302612"
+              class="id_Кролик id_Табаки" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -557.307617,456.204010 C -577.554504,338.365845 -431.167694,131.238251 -313.329529,110.991348"
+              class="id_Кролик id_Черный" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 446.434570,273.326447 C 351.577026,325.004486 131.773651,260.235229 80.095604,165.377701"
+              class="id_Крысы id_Курильщик" stroke-opacity="1.0"
+              stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 446.434570,273.326447 C 437.779358,155.149506 602.061951,-35.098671 720.238892,-43.753876"
+              class="id_Крысы id_Птицы" stroke-opacity="1.0" stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 446.434570,273.326447 C 376.049866,179.130402 411.766907,-67.740768 505.962952,-138.125473"
+              class="id_Крысы id_Рыжий" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 446.434570,273.326447 C 498.351654,324.779358 499.047882,479.834381 447.594971,531.751465"
+              class="id_Крысы id_Фазаны" stroke-opacity="1.0" stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 80.095604,165.377701 C 9.586342,69.992523 46.900208,-178.849121 142.285385,-249.358383"
+              class="id_Курильщик id_Лэри" stroke-opacity="1.0" stroke="#b2cbe2"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 80.095604,165.377701 C 107.950027,213.783569 77.122856,328.174011 28.716982,356.028442"
+              class="id_Курильщик id_Лорд" stroke-opacity="1.0" stroke="#93bad8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 80.095604,165.377701 C -17.668533,14.880482 61.431091,-357.511566 211.928314,-455.275696"
+              class="id_Курильщик id_Македонский" stroke-opacity="1.0"
+              stroke="#bcd1e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 80.095604,165.377701 C 75.154953,346.474243 -203.900848,610.708069 -384.997375,605.767395"
+              class="id_Курильщик id_Мартышка" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 80.095604,165.377701 C 218.522873,220.689896 343.195496,511.299011 287.883331,649.726257"
+              class="id_Курильщик id_Помпей" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 80.095604,165.377701 C 166.297943,-4.477287 550.383911,-129.956238 720.238892,-43.753876"
+              class="id_Курильщик id_Птицы" stroke-opacity="1.0"
+              stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 80.095604,165.377701 C 104.568436,19.503593 360.088867,-162.598297 505.962952,-138.125473"
+              class="id_Курильщик id_Рыжий" stroke-opacity="1.0"
+              stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 80.095604,165.377701 C 69.269821,69.786156 196.418472,-89.839813 292.010010,-100.665596"
+              class="id_Курильщик id_Слепой" stroke-opacity="1.0"
+              stroke="#c7d7e8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 80.095604,165.377701 C 37.423016,124.377312 34.914722,-1.132164 75.915115,-43.804752"
+              class="id_Курильщик id_Стервятник" stroke-opacity="1.0"
+              stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="12.0"
+              d="M 80.095604,165.377701 C -34.240536,117.448029 -133.850235,-125.950638 -85.920570,-240.286774"
+              class="id_Курильщик id_Сфинкс" stroke-opacity="1.0"
+              stroke="#7eaed2"/>
+        <path fill="none" stroke-width="25.0"
+              d="M 80.095604,165.377701 C 47.015961,225.227310 -92.377914,265.382263 -152.227524,232.302612"
+              class="id_Курильщик id_Табаки" stroke-opacity="1.0"
+              stroke="#045a8d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 80.095604,165.377701 C 5.409821,172.787643 -117.733765,71.873878 -125.143707,-2.811905"
+              class="id_Курильщик id_Толстый" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 80.095604,165.377701 C 226.870224,165.152588 447.369843,384.976837 447.594971,531.751465"
+              class="id_Курильщик id_Фазаны" stroke-opacity="1.0"
+              stroke="#dce2ef"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 80.095604,165.377701 C -9.466695,233.185455 -245.521774,200.553650 -313.329529,110.991348"
+              class="id_Курильщик id_Черный" stroke-opacity="1.0"
+              stroke="#b2cbe2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 80.095604,165.377701 C -110.237488,13.442211 -167.833893,-499.960693 -15.898406,-690.293762"
+              class="id_Курильщик id_Четвёртая" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 80.095604,165.377701 C 162.764114,233.914902 183.961090,460.723389 115.423904,543.391907"
+              class="id_Курильщик id_Ящик" stroke-opacity="1.0" stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 546.753174,-467.984497 C 465.757996,-295.910217 86.153717,-159.291580 -85.920570,-240.286774"
+              class="id_Лавр id_Сфинкс" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 28.716982,356.028442 C -69.646698,212.237396 -1.505661,-150.994705 142.285385,-249.358383"
+              class="id_Лорд id_Лэри" stroke-opacity="1.0" stroke="#dce2ef"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 28.716982,356.028442 C -96.901581,157.125336 13.025208,-329.657135 211.928314,-455.275696"
+              class="id_Лорд id_Македонский" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 28.716982,356.028442 C -9.963219,212.031036 148.012604,-61.985394 292.010010,-100.665596"
+              class="id_Лорд id_Слепой" stroke-opacity="1.0" stroke="#dce2ef"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 28.716982,356.028442 C -113.473564,259.692932 -182.256104,-98.096222 -85.920570,-240.286774"
+              class="id_Лорд id_Сфинкс" stroke-opacity="1.0" stroke="#dce2ef"/>
+        <path fill="none" stroke-width="12.0"
+              d="M 28.716982,356.028442 C -32.217087,367.472168 -140.783783,293.236694 -152.227524,232.302612"
+              class="id_Лорд id_Табаки" stroke-opacity="1.0" stroke="#7eaed2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 28.716982,356.028442 C -88.699738,375.430328 -293.927643,228.408066 -313.329529,110.991348"
+              class="id_Лорд id_Черный" stroke-opacity="1.0" stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -423.790710,-567.233704 C -316.994934,-354.659149 -475.663025,124.396301 -688.237610,231.192078"
+              class="id_Лось id_Ральф" stroke-opacity="1.0" stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -423.790710,-567.233704 C -365.409424,-542.677612 -314.671539,-418.271667 -339.227570,-359.890381"
+              class="id_Лось id_Сестра_Агата" stroke-opacity="1.0"
+              stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -423.790710,-567.233704 C -187.316925,-617.080200 242.163483,-337.139374 292.010010,-100.665596"
+              class="id_Лось id_Слепой" stroke-opacity="1.0" stroke="#bcd1e5"/>
+        <path fill="none" stroke-width="15.0"
+              d="M -423.790710,-567.233704 C -290.827271,-569.418335 -88.105209,-373.250183 -85.920570,-240.286774"
+              class="id_Лось id_Сфинкс" stroke-opacity="1.0" stroke="#619bc4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -423.790710,-567.233704 C -406.506348,-440.590637 -570.544373,-224.699463 -697.187439,-207.415085"
+              class="id_Лось id_Щепка" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -423.790710,-567.233704 C -410.404816,-631.285095 -294.248901,-707.283264 -230.197525,-693.897400"
+              class="id_Лось id_Ян" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 142.285385,-249.358383 C 115.030510,-304.470428 156.816254,-428.020813 211.928314,-455.275696"
+              class="id_Лэри id_Македонский" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 142.285385,-249.358383 C 201.968872,-249.564758 291.803650,-160.349075 292.010010,-100.665596"
+              class="id_Лэри id_Слепой" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 142.285385,-249.358383 C 98.458511,-201.902863 -38.465050,-196.459900 -85.920570,-240.286774"
+              class="id_Лэри id_Сфинкс" stroke-opacity="1.0" stroke="#dce2ef"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 142.285385,-249.358383 C 179.714996,-94.123604 3.007256,194.872986 -152.227524,232.302612"
+              class="id_Лэри id_Табаки" stroke-opacity="1.0" stroke="#d1dcec"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 211.928314,-455.275696 C 298.866699,-400.369995 346.915710,-187.603958 292.010010,-100.665596"
+              class="id_Македонский id_Слепой" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 211.928314,-455.275696 C 195.356323,-352.708130 16.646992,-223.714767 -85.920570,-240.286774"
+              class="id_Македонский id_Сфинкс" stroke-opacity="1.0"
+              stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 211.928314,-455.275696 C 276.612793,-244.928833 58.119316,167.618103 -152.227524,232.302612"
+              class="id_Македонский id_Табаки" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 211.928314,-455.275696 C 235.006683,-297.368530 32.763458,-25.890259 -125.143707,-2.811905"
+              class="id_Македонский id_Толстый" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 662.805359,-280.345184 C 541.081543,-288.769928 371.132813,-483.992889 379.557556,-605.716736"
+              class="id_Мальчик-1 id_Мальчик-2" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 662.805359,-280.345184 C 484.971375,-265.935486 196.605804,-511.071930 182.196106,-688.905945"
+              class="id_Мальчик-1 id_Мальчик-3" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 662.805359,-280.345184 C 521.071838,-122.588303 71.836304,-98.553268 -85.920570,-240.286774"
+              class="id_Мальчик-1 id_Сфинкс" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 379.557556,-605.716736 C 323.447418,-582.882263 205.030548,-632.795837 182.196106,-688.905945"
+              class="id_Мальчик-2 id_Мальчик-3" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 379.557556,-605.716736 C 359.547943,-439.535126 80.261040,-220.277161 -85.920570,-240.286774"
+              class="id_Мальчик-2 id_Сфинкс" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 182.196106,-688.905945 C 218.296600,-545.558777 57.426605,-276.387268 -85.920570,-240.286774"
+              class="id_Мальчик-3 id_Сфинкс" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -143.818573,492.767609 C -301.319641,275.909851 -212.284576,-285.628357 4.573165,-443.129395"
+              class="id_Плакса id_Пышка" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -143.818573,492.767609 C -254.076019,450.314545 -355.782593,221.248779 -313.329529,110.991348"
+              class="id_Плакса id_Черный" stroke-opacity="1.0" stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 287.883331,649.726257 C 173.928909,448.539948 304.776672,-24.171040 505.962952,-138.125473"
+              class="id_Помпей id_Рыжий" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 287.883331,649.726257 C 138.630310,498.822540 141.106293,48.587437 292.010010,-100.665596"
+              class="id_Помпей id_Слепой" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 287.883331,649.726257 C 106.783493,553.413696 -20.397430,137.295090 75.915115,-43.804752"
+              class="id_Помпей id_Стервятник" stroke-opacity="1.0"
+              stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 287.883331,649.726257 C 35.119934,546.484436 -189.162415,12.476631 -85.920570,-240.286774"
+              class="id_Помпей id_Сфинкс" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 720.238892,-43.753876 C 658.509399,-19.773010 529.943787,-76.395966 505.962952,-138.125473"
+              class="id_Птицы id_Рыжий" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 720.238892,-43.753876 C 780.811157,125.875984 617.224854,471.179169 447.594971,531.751465"
+              class="id_Птицы id_Фазаны" stroke-opacity="1.0" stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -489.736298,247.335770 C -481.723846,184.785522 -375.879761,102.978882 -313.329529,110.991348"
+              class="id_Пузырь id_Черный" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 4.573165,-443.129395 C 218.163803,-331.577820 371.222351,156.135620 259.670746,369.726257"
+              class="id_Пышка id_Рекс" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 4.573165,-443.129395 C 27.042946,-384.462097 -27.253296,-262.756531 -85.920570,-240.286774"
+              class="id_Пышка id_Сфинкс" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 4.573165,-443.129395 C 51.816772,-268.724701 -138.924850,63.747742 -313.329529,110.991348"
+              class="id_Пышка id_Черный" stroke-opacity="1.0" stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -688.237610,231.192078 C -662.070007,16.432899 -300.679749,-266.454407 -85.920570,-240.286774"
+              class="id_Ральф id_Сфинкс" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -688.237610,231.192078 C -777.749023,145.260605 -783.118896,-117.903687 -697.187439,-207.415085"
+              class="id_Ральф id_Щепка" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 259.670746,369.726257 C 140.213409,323.771179 29.960045,75.652573 75.915115,-43.804752"
+              class="id_Рекс id_Стервятник" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 259.670746,369.726257 C 93.323708,432.579346 -250.476471,277.338379 -313.329529,110.991348"
+              class="id_Рекс id_Черный" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 506.912048,65.492554 C 465.998627,24.958767 465.429169,-97.212051 505.962952,-138.125473"
+              class="id_Рыжая id_Рыжий" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 506.912048,65.492554 C 327.189667,122.903214 -28.509907,-60.564377 -85.920570,-240.286774"
+              class="id_Рыжая id_Сфинкс" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 505.962952,-138.125473 C 438.817505,-33.251747 180.788834,23.340675 75.915115,-43.804752"
+              class="id_Рыжий id_Стервятник" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 505.962952,-138.125473 C 367.153992,-40.181030 12.023878,-101.477798 -85.920570,-240.286774"
+              class="id_Рыжий id_Сфинкс" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 505.962952,-138.125473 C 628.264771,7.523526 593.243958,409.449646 447.594971,531.751465"
+              class="id_Рыжий id_Фазаны" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -585.613098,-421.483124 C -449.435333,-485.182373 -149.619797,-376.464539 -85.920570,-240.286774"
+              class="id_Седой id_Сфинкс" stroke-opacity="1.0" stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -339.227570,-359.890381 C -264.645447,-386.631073 -112.661247,-314.868896 -85.920570,-240.286774"
+              class="id_Сестра_Агата id_Сфинкс" stroke-opacity="1.0"
+              stroke="#dce2ef"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -339.227570,-359.890381 C -384.222961,-448.497772 -318.804932,-648.902039 -230.197525,-693.897400"
+              class="id_Сестра_Агата id_Ян" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="22.0"
+              d="M 292.010010,-100.665596 C 188.499649,-53.003723 -38.258690,-136.776413 -85.920570,-240.286774"
+              class="id_Слепой id_Сфинкс" stroke-opacity="1.0" stroke="#206d9d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 292.010010,-100.665596 C 260.163208,-46.074448 130.506256,-11.957943 75.915115,-43.804752"
+              class="id_Слепой id_Стервятник" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 292.010010,-100.665596 C 269.756165,54.775558 3.213631,254.556488 -152.227524,232.302612"
+              class="id_Слепой id_Табаки" stroke-opacity="1.0" stroke="#bcd1e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 292.010010,-100.665596 C 119.004684,-82.410545 -167.885864,-314.535950 -186.140930,-487.541260"
+              class="id_Слепой id_Хламовник" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 292.010010,-100.665596 C 213.273483,62.733715 -149.930222,189.727875 -313.329529,110.991348"
+              class="id_Слепой id_Черный" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 75.915115,-43.804752 C 29.025408,65.003403 -204.521362,157.881058 -313.329529,110.991348"
+              class="id_Стервятник id_Черный" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="11.0"
+              d="M -85.920570,-240.286774 C -4.664078,-132.507507 -44.448242,151.046112 -152.227524,232.302612"
+              class="id_Сфинкс id_Табаки" stroke-opacity="1.0" stroke="#88b4d5"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -85.920570,-240.286774 C -118.172348,-108.578484 -364.112427,40.606300 -495.820740,8.354526"
+              class="id_Сфинкс id_Фокусник" stroke-opacity="1.0"
+              stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -85.920570,-240.286774 C -155.415543,-269.693604 -215.547760,-418.046295 -186.140930,-487.541260"
+              class="id_Сфинкс id_Хламовник" stroke-opacity="1.0"
+              stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -85.920570,-240.286774 C -61.146751,-124.549362 -197.592102,86.217522 -313.329529,110.991348"
+              class="id_Сфинкс id_Черный" stroke-opacity="1.0" stroke="#e6e8f2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -85.920570,-240.286774 C -161.917542,-344.292603 -119.904243,-614.296814 -15.898406,-690.293762"
+              class="id_Сфинкс id_Четвёртая" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -85.920570,-240.286774 C -201.599594,-111.459068 -568.359741,-91.736061 -697.187439,-207.415085"
+              class="id_Сфинкс id_Щепка" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -85.920570,-240.286774 C -205.498077,-302.153503 -292.064270,-574.319885 -230.197525,-693.897400"
+              class="id_Сфинкс id_Ян" stroke-opacity="1.0" stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -152.227524,232.302612 C -265.735779,256.231628 -471.891724,121.862785 -495.820740,8.354526"
+              class="id_Табаки id_Фокусник" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -152.227524,232.302612 C -208.710175,240.260757 -305.371399,167.473999 -313.329529,110.991348"
+              class="id_Табаки id_Черный" stroke-opacity="1.0" stroke="#dce2ef"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -495.820740,8.354526 C -533.063904,-152.760605 -347.256073,-450.298065 -186.140930,-487.541260"
+              class="id_Фокусник id_Хламовник" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -186.140930,-487.541260 C -232.324982,-329.306702 -538.952942,-161.231003 -697.187439,-207.415085"
+              class="id_Хламовник id_Щепка" stroke-opacity="1.0"
+              stroke="#f1eef6"/>
+    </g>
+    <g id="node-labels-outline">
+        <text stroke-linecap="round" font-size="23" x="-324.38257" y="392.25473"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Cлон" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="2.15625px">
+            Cлон
+        </text>
+        <text stroke-linecap="round" font-size="59" x="275.86984" y="132.07513"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Горбач" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="5.53125px">
+            Горбач
+        </text>
+        <text stroke-linecap="round" font-size="26" x="259.67075" y="374.11038"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Рекс" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="2.4375px">
+            Рекс
+        </text>
+        <text stroke-linecap="round" font-size="37" x="75.915115" y="-35.62368"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Стервятник" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.46875px">
+            Стервятник
+        </text>
+        <text stroke-linecap="round" font-size="62" x="-313.32953" y="124.85154"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Черный" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="5.8125px">
+            Черный
+        </text>
+        <text stroke-linecap="round" font-size="23" x="690.8172" y="190.89687"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Акула" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="2.15625px">
+            Акула
+        </text>
+        <text stroke-linecap="round" font-size="23" x="609.80963" y="403.19452"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Гомер" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="2.15625px">
+            Гомер
+        </text>
+        <text stroke-linecap="round" font-size="88" x="80.095604" y="184.92133"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Курильщик" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="8.25px">
+            Курильщик
+        </text>
+        <text stroke-linecap="round" font-size="48" x="28.716982" y="366.54797"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Лорд" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="4.5px">
+            Лорд
+        </text>
+        <text stroke-linecap="round" font-size="19" x="115.423904" y="547.3085"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Ящик" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.78125px">
+            Ящик
+        </text>
+        <text stroke-linecap="round" font-size="12" x="388.7076" y="-327.11517"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Ведьма" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.125px">
+            Ведьма
+        </text>
+        <text stroke-linecap="round" font-size="109" x="-85.92057"
+              y="-215.49388" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Сфинкс" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="10.21875px">
+            Сфинкс
+        </text>
+        <text stroke-linecap="round" font-size="48" x="-286.06656"
+              y="-134.02353" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Волк" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="4.5px">
+            Волк
+        </text>
+        <text stroke-linecap="round" font-size="37" x="-423.7907" y="-560.99475"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Лось" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.46875px">
+            Лось
+        </text>
+        <text stroke-linecap="round" font-size="55" x="292.01" y="-91.14981"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Слепой" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="5.15625px">
+            Слепой
+        </text>
+        <text stroke-linecap="round" font-size="23" x="-494.609" y="-203.59816"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Красавица" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="2.15625px">
+            Красавица
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-489.7363" y="250.85791"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Пузырь" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Пузырь
+        </text>
+        <text stroke-linecap="round" font-size="30" x="4.5731654" y="-438.0708"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Пышка" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="2.8125px">
+            Пышка
+        </text>
+        <text stroke-linecap="round" font-size="23" x="-339.22757"
+              y="-354.80484" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Сестра_Агата" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="2.15625px">
+            Сестра Агата
+        </text>
+        <text stroke-linecap="round" font-size="52" x="-152.22752" y="241.48979"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Табаки" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="4.875px">
+            Табаки
+        </text>
+        <text stroke-linecap="round" font-size="26" x="-495.82074" y="14.25573"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Фокусник" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="2.4375px">
+            Фокусник
+        </text>
+        <text stroke-linecap="round" font-size="37" x="142.28539" y="-241.24957"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Лэри" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.46875px">
+            Лэри
+        </text>
+        <text stroke-linecap="round" font-size="37" x="211.92831" y="-447.47705"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Македонский" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.46875px">
+            Македонский
+        </text>
+        <text stroke-linecap="round" font-size="19" x="-125.14371" y="0.4753673"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Толстый" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.78125px">
+            Толстый
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-177.28925" y="699.82446"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Джин" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Джин
+        </text>
+        <text stroke-linecap="round" font-size="26" x="447.59497" y="536.3133"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Фазаны" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="2.4375px">
+            Фазаны
+        </text>
+        <text stroke-linecap="round" font-size="19" x="-707.83026" y="19.879314"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Зануда" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.78125px">
+            Зануда
+        </text>
+        <text stroke-linecap="round" font-size="19" x="-143.81857" y="495.97137"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Плакса" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.78125px">
+            Плакса
+        </text>
+        <text stroke-linecap="round" font-size="12" x="42.610035" y="727.5625"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Конь" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.125px">
+            Конь
+        </text>
+        <text stroke-linecap="round" font-size="23" x="-557.3076" y="461.28955"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Кролик" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="2.15625px">
+            Кролик
+        </text>
+        <text stroke-linecap="round" font-size="23" x="446.43457" y="278.412"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Крысы" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="2.15625px">
+            Крысы
+        </text>
+        <text stroke-linecap="round" font-size="23" x="720.2389" y="-39.01275"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Птицы" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="2.15625px">
+            Птицы
+        </text>
+        <text stroke-linecap="round" font-size="37" x="505.96295" y="-131.7962"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Рыжий" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.46875px">
+            Рыжий
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-384.99738" y="608.3973"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Мартышка" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.125px">
+            Мартышка
+        </text>
+        <text stroke-linecap="round" font-size="26" x="287.88333" y="654.2246"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Помпей" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="2.4375px">
+            Помпей
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-15.898406"
+              y="-686.78723" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Четвёртая" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Четвёртая
+        </text>
+        <text stroke-linecap="round" font-size="12" x="546.7532" y="-465.3546"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Лавр" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.125px">
+            Лавр
+        </text>
+        <text stroke-linecap="round" font-size="19" x="-688.2376" y="235.51378"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Ральф" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.78125px">
+            Ральф
+        </text>
+        <text stroke-linecap="round" font-size="23" x="-697.18744"
+              y="-202.57288" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Щепка" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="2.15625px">
+            Щепка
+        </text>
+        <text stroke-linecap="round" font-size="19" x="-230.19753" y="-690.7307"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Ян" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.78125px">
+            Ян
+        </text>
+        <text stroke-linecap="round" font-size="19" x="662.80536" y="-277.1043"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Мальчик-1" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.78125px">
+            Мальчик-1
+        </text>
+        <text stroke-linecap="round" font-size="19" x="379.55756" y="-602.4758"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Мальчик-2" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.78125px">
+            Мальчик-2
+        </text>
+        <text stroke-linecap="round" font-size="19" x="182.1961" y="-685.66504"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Мальчик-3" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.78125px">
+            Мальчик-3
+        </text>
+        <text stroke-linecap="round" font-size="16" x="506.91205" y="68.19047"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Рыжая" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Рыжая
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-585.6131" y="-418.95383"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Седой" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.125px">
+            Седой
+        </text>
+        <text stroke-linecap="round" font-size="23" x="-186.14093" y="-483.663"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Хламовник" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="2.15625px">
+            Хламовник
+        </text>
+    </g>
+    <g id="node-labels">
+        <text font-size="23" x="-324.38257" y="392.25473" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Cлон">
+            Cлон
+        </text>
+        <text font-size="59" x="275.86984" y="132.07513" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Горбач">
+            Горбач
+        </text>
+        <text font-size="26" x="259.67075" y="374.11038" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Рекс">
+            Рекс
+        </text>
+        <text font-size="37" x="75.915115" y="-35.62368" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Стервятник">
+            Стервятник
+        </text>
+        <text font-size="62" x="-313.32953" y="124.85154" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Черный">
+            Черный
+        </text>
+        <text font-size="23" x="690.8172" y="190.89687" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Акула">
+            Акула
+        </text>
+        <text font-size="23" x="609.80963" y="403.19452" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Гомер">
+            Гомер
+        </text>
+        <text font-size="88" x="80.095604" y="184.92133" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Курильщик">
+            Курильщик
+        </text>
+        <text font-size="48" x="28.716982" y="366.54797" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Лорд">
+            Лорд
+        </text>
+        <text font-size="19" x="115.423904" y="547.3085" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Ящик">
+            Ящик
+        </text>
+        <text font-size="12" x="388.7076" y="-327.11517" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Ведьма">
+            Ведьма
+        </text>
+        <text font-size="109" x="-85.92057" y="-215.49388" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Сфинкс">
+            Сфинкс
+        </text>
+        <text font-size="48" x="-286.06656" y="-134.02353" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Волк">
+            Волк
+        </text>
+        <text font-size="37" x="-423.7907" y="-560.99475" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Лось">
+            Лось
+        </text>
+        <text font-size="55" x="292.01" y="-91.14981" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Слепой">
+            Слепой
+        </text>
+        <text font-size="23" x="-494.609" y="-203.59816" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Красавица">
+            Красавица
+        </text>
+        <text font-size="16" x="-489.7363" y="250.85791" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Пузырь">
+            Пузырь
+        </text>
+        <text font-size="30" x="4.5731654" y="-438.0708" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Пышка">
+            Пышка
+        </text>
+        <text font-size="23" x="-339.22757" y="-354.80484" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Сестра_Агата">
+            Сестра Агата
+        </text>
+        <text font-size="52" x="-152.22752" y="241.48979" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Табаки">
+            Табаки
+        </text>
+        <text font-size="26" x="-495.82074" y="14.25573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Фокусник">
+            Фокусник
+        </text>
+        <text font-size="37" x="142.28539" y="-241.24957" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Лэри">
+            Лэри
+        </text>
+        <text font-size="37" x="211.92831" y="-447.47705" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Македонский">
+            Македонский
+        </text>
+        <text font-size="19" x="-125.14371" y="0.4753673" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Толстый">
+            Толстый
+        </text>
+        <text font-size="16" x="-177.28925" y="699.82446" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Джин">
+            Джин
+        </text>
+        <text font-size="26" x="447.59497" y="536.3133" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Фазаны">
+            Фазаны
+        </text>
+        <text font-size="19" x="-707.83026" y="19.879314" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Зануда">
+            Зануда
+        </text>
+        <text font-size="19" x="-143.81857" y="495.97137" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Плакса">
+            Плакса
+        </text>
+        <text font-size="12" x="42.610035" y="727.5625" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Конь">
+            Конь
+        </text>
+        <text font-size="23" x="-557.3076" y="461.28955" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Кролик">
+            Кролик
+        </text>
+        <text font-size="23" x="446.43457" y="278.412" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Крысы">
+            Крысы
+        </text>
+        <text font-size="23" x="720.2389" y="-39.01275" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Птицы">
+            Птицы
+        </text>
+        <text font-size="37" x="505.96295" y="-131.7962" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Рыжий">
+            Рыжий
+        </text>
+        <text font-size="12" x="-384.99738" y="608.3973" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Мартышка">
+            Мартышка
+        </text>
+        <text font-size="26" x="287.88333" y="654.2246" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Помпей">
+            Помпей
+        </text>
+        <text font-size="16" x="-15.898406" y="-686.78723" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Четвёртая">
+            Четвёртая
+        </text>
+        <text font-size="12" x="546.7532" y="-465.3546" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Лавр">
+            Лавр
+        </text>
+        <text font-size="19" x="-688.2376" y="235.51378" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Ральф">
+            Ральф
+        </text>
+        <text font-size="23" x="-697.18744" y="-202.57288" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Щепка">
+            Щепка
+        </text>
+        <text font-size="19" x="-230.19753" y="-690.7307" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Ян">
+            Ян
+        </text>
+        <text font-size="19" x="662.80536" y="-277.1043" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Мальчик-1">
+            Мальчик-1
+        </text>
+        <text font-size="19" x="379.55756" y="-602.4758" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Мальчик-2">
+            Мальчик-2
+        </text>
+        <text font-size="19" x="182.1961" y="-685.66504" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Мальчик-3">
+            Мальчик-3
+        </text>
+        <text font-size="16" x="506.91205" y="68.19047" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Рыжая">
+            Рыжая
+        </text>
+        <text font-size="12" x="-585.6131" y="-418.95383" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Седой">
+            Седой
+        </text>
+        <text font-size="23" x="-186.14093" y="-483.663" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Cambria" class="id_Хламовник">
+            Хламовник
+        </text>
+    </g>
+</svg>
