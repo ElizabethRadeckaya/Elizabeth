@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Близ мест, где царствует Венеция златая…</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Рукопись Пушкина</edition>
+        <respStmt>
+          <resp>Editor</resp>
+          <name>Вышки Студент</name>
+        </respStmt>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surfaceGrp>
+      <surface n="Текст">
+        <graphic url="http://textograf.ru/api/Manuscripts/6f15d0d3-f465-4e03-8294-d738693c56ed/28070ed5-0737-4b90-8abe-7dcf48c9a700.jpg" width="1920px" height="1440px" />
+        <zone ulx="127.95413208007812" uly="87.183486938476562" lrx="127.95413208007812" lry="39.825691223144531">
+          <line>
+            <del>  Межъ </del> <del>въ </del>               </line>
+        </zone>
+        <zone ulx="604" uly="91.2844009399414" lrx="604" lry="47.192661285400391">
+          <line> <del>близъ</del>      </line>
+        </zone>
+        <zone ulx="123.88990783691406" uly="133.74311828613281" lrx="123.88990783691406" lry="104.3486328125">
+          <line>
+            <del>средь</del>    <del>волнах□□□с□□□□□□□</del>въ□□□□                </line>
+        </zone>
+        <zone ulx="1299" uly="135" lrx="1299" lry="85.5">
+          <line>
+            <del>морская</del> златая</line>
+          <line>
+            <del>въмѣстахъ<hi rend="underline">въмѣстахъ</hi></del> </line>
+        </zone>
+        <zone ulx="606" uly="189" lrx="606" lry="144">
+          <line>гдѣцарствуетъ </line>
+        </zone>
+        <zone ulx="1057.5" uly="192" lrx="1057.5" lry="142.5">
+          <line>Венеція </line>
+        </zone>
+        <zone ulx="1243.5" uly="202.5" lrx="1243.5" lry="141">
+          <line>- <del>надъ морѣмъ</del> - </line>
+        </zone>
+        <zone ulx="1074" uly="211.5" lrx="1074" lry="190.5" />
+        <zone ulx="159" uly="217.5" lrx="159" lry="180" />
+        <zone ulx="505.5" uly="219" lrx="505.5" lry="178.5" />
+        <zone ulx="1039.5" uly="235.5" lrx="1039.5" lry="208.5">
+          <line>
+            <add place="above">
+              <del>вомглѣ </del>
+            </add>
+          </line>
+        </zone>
+        <zone ulx="294" uly="256.5" lrx="294" lry="210">
+          <line>
+            <del>безпечно</del>  <add place="above">ночной</add> </line>
+        </zone>
+        <zone ulx="553.5" uly="252" lrx="553.5" lry="217.5">
+          <line> <del> гондъ</del>  </line>
+        </zone>
+        <zone points="717,271.5 717,214.5 1035,214.5 1075.5,270">
+          <line>Пловецъ<add place="above">во мглѣ<add place="above"><del>одинъ</del></add></add>,        </line>
+        </zone>
+        <zone ulx="1140" uly="264" lrx="1140" lry="226.5">
+          <line>гондолою </line>
+        </zone>
+        <zone ulx="1446" uly="280.5" lrx="1446" lry="225">
+          <line>управляя</line>
+        </zone>
+        <zone ulx="138" uly="279" lrx="138" lry="226.5">
+          <line>   <add place="above"><del>въволнахъ</del></add></line>
+        </zone>
+        <zone ulx="285" uly="349.5" lrx="285" lry="289.5">
+          <line>
+            <del>Поетъ </del>
+          </line>
+        </zone>
+        <zone ulx="502.5" uly="334.5" lrx="502.5" lry="256.5">
+          <line>
+            <del>Эрминію </del>
+          </line>
+        </zone>
+        <zone ulx="898.5" uly="337.5" lrx="898.5" lry="283.5">
+          <line>
+            <del>Танкреда </del>
+          </line>
+        </zone>
+        <zone ulx="1239" uly="336" lrx="1239" lry="291">
+          <line>
+            <del>и </del>
+          </line>
+        </zone>
+        <zone ulx="1330.5" uly="348" lrx="1330.5" lry="280.5">
+          <line>
+            <del>Ринальда</del> </line>
+        </zone>
+        <zone ulx="532.5" uly="358.5" lrx="532.5" lry="321" />
+        <zone ulx="282" uly="397.5" lrx="282" lry="348">
+          <line>При </line>
+        </zone>
+        <zone ulx="457.5" uly="388.5" lrx="457.5" lry="352.5">
+          <line>
+            <del>бле</del>
+            <add place="above">свѣтѣ</add>
+            <del>скѣ</del> </line>
+        </zone>
+        <zone ulx="694.5" uly="397.5" lrx="694.5" lry="328.5">
+          <line>Веспера □ </line>
+        </zone>
+        <zone ulx="999" uly="396" lrx="999" lry="343.5">
+          <line>
+            <del>по гладкой</del> </line>
+        </zone>
+        <zone ulx="1341" uly="409.5" lrx="1341" lry="352.5">
+          <line>скользить </line>
+        </zone>
+        <zone ulx="1584" uly="397.5" lrx="1584" lry="358.5">
+          <line>по лону</line>
+        </zone>
+        <zone ulx="1698" uly="465" lrx="1698" lry="397.5">
+          <line>
+            <add place="above">                                                                                                                         водъ</add>       </line>
+        </zone>
+        <zone ulx="300" uly="466.5" lrx="300" lry="411">
+          <line> <del>Поетъ </del></line>
+        </zone>
+        <zone ulx="565.5" uly="459" lrx="565.5" lry="399">
+          <line>
+            <del>Эрминiю </del>
+          </line>
+        </zone>
+        <zone ulx="951" uly="460.5" lrx="951" lry="402">
+          <line>
+            <del>Ринальда </del>
+          </line>
+        </zone>
+        <zone ulx="1354.5" uly="472.5" lrx="1354.5" lry="400.5">
+          <line>
+            <del>и любовь</del>  </line>
+          <line>     </line>
+        </zone>
+        <zone ulx="295.5" uly="549" lrx="295.5" lry="484.5">
+          <line>
+            <del>Э</del>
+            <add place="above">
+              <del>П</del>
+            </add> </line>
+        </zone>
+        <zone ulx="415.5" uly="559.5" lrx="415.5" lry="478.5">
+          <line>Ринальда,        </line>
+        </zone>
+        <zone ulx="804" uly="549" lrx="804" lry="462">
+          <line>Годфрида,         </line>
+        </zone>
+        <zone ulx="1215" uly="553.5" lrx="1215" lry="466.5">
+          <line>Эрминiю         </line>
+        </zone>
+        <zone ulx="1510.5" uly="565.5" lrx="1510.5" lry="478.5">
+          <line>поетъ  –</line>
+        </zone>
+        <zone ulx="367.5" uly="604.5" lrx="367.5" lry="546" />
+        <zone ulx="472.5" uly="621" lrx="472.5" lry="542.25" />
+        <zone ulx="1056" uly="588" lrx="1056" lry="532.5">
+          <line>     <del>Поетъ</del><add place="above"><del>Не</del></add><add place="above">Поетъ</add> </line>
+        </zone>
+        <zone ulx="621" uly="641.25" lrx="621" lry="570">
+          <line>
+            <del>невѣдая</del>
+            <add place="above">
+              <del>еть</del>
+            </add>  </line>
+        </zone>
+        <zone ulx="922.5" uly="627.75" lrx="922.5" lry="569.25">
+          <line>
+            <del>ни</del> <add place="above">                <del> робости</del></add></line>
+        </zone>
+        <zone ulx="1046.25" uly="619.5" lrx="1046.25" lry="574.5">
+          <line>
+            <del>замыслов</del> </line>
+        </zone>
+        <zone ulx="1419" uly="613.5" lrx="1419" lry="570.75">
+          <line>ни </line>
+        </zone>
+        <zone ulx="1526.25" uly="612.75" lrx="1526.25" lry="567.75">
+          <line>славы</line>
+        </zone>
+        <zone ulx="131.25" uly="663" lrx="131.25" lry="618.75" />
+        <zone ulx="281.25" uly="676.5" lrx="281.25" lry="637.5" />
+        <zone ulx="1225.5" uly="653.25" lrx="1225.5" lry="595.5" />
+        <zone ulx="1532.25" uly="642.75" lrx="1532.25" lry="600">
+          <line>
+            <add place="above">  и тихо</add>   <add place="above">    бога</add></line>
+        </zone>
+        <zone ulx="450.75" uly="675" lrx="450.75" lry="624.75">
+          <line>
+            <del>Ни </del>
+          </line>
+        </zone>
+        <zone ulx="578.25" uly="680.25" lrx="578.25" lry="621">
+          <line>
+            <del>дальнихъ </del>
+          </line>
+        </zone>
+        <zone ulx="888" uly="677.25" lrx="888" lry="623.25">
+          <line>
+            <del>умысловъ </del> - <add place="above"><del>и смиренный</del></add>                    <add place="above"><del>и путь</del></add></line>
+        </zone>
+        <zone ulx="1277.25" uly="671.25" lrx="1277.25" lry="627.75">
+          <line>      </line>
+        </zone>
+        <zone ulx="344.25" uly="714.75" lrx="344.25" lry="666">
+          <line>Полн<del>а</del><add place="above"><del>ъ</del></add> </line>
+        </zone>
+        <zone ulx="603.65582275390625" uly="716.8076171875" lrx="603.65582275390625" lry="675.14093017578125">
+          <line>
+            <del>поетъ </del>
+          </line>
+        </zone>
+        <zone ulx="884.4891357421875" uly="704.3076171875" lrx="884.4891357421875" lry="666.8076171875">
+          <line>
+            <del>онъ</del> </line>
+        </zone>
+        <zone ulx="1085.7431640625" uly="721.633056640625" lrx="1085.7431640625" lry="667.74310302734375">
+          <line>
+            <del>для </del>
+          </line>
+        </zone>
+        <zone ulx="1252.3118896484375" uly="697.9541015625" lrx="1252.3118896484375" lry="635.89910888671875">
+          <line>
+            <del>забавы</del> </line>
+        </zone>
+        <zone ulx="1583" uly="684.0733642578125" lrx="1583" lry="657.12841796875">
+          <line>
+            <del>для</del>
+            <add place="above">
+              <del>б безпечный</del>
+            </add>
+          </line>
+        </zone>
+        <zone ulx="1389.4862060546875" uly="717.55047607421875" lrx="1389.4862060546875" lry="678.3577880859375" />
+        <zone ulx="1543.807373046875" uly="711.01837158203125" lrx="1543.807373046875" lry="667.74310302734375" />
+        <zone ulx="1627.908203125" uly="713.4678955078125" lrx="1627.908203125" lry="667.74310302734375" />
+        <zone ulx="190.84403991699219" uly="753.47705078125" lrx="190.84403991699219" lry="675.90826416015625">
+          <line>
+            <del>Онъ<hi rend="underline">Онъ</hi></del>
+            <del> <hi rend="underline"> </hi></del>
+          </line>
+        </zone>
+        <zone ulx="310.87155151367187" uly="741.2293701171875" lrx="310.87155151367187" lry="695.50457763671875">
+          <line>
+            <del>любитъ<hi rend="underline">любитъ</hi></del>
+            <del> <hi rend="underline"> </hi></del>
+          </line>
+        </zone>
+        <zone ulx="511.73394775390625" uly="733.8807373046875" lrx="511.73394775390625" lry="697.13763427734375">
+          <line>
+            <del>пѣснь </del>
+          </line>
+        </zone>
+        <zone ulx="654.62384033203125" uly="735.51373291015625" lrx="654.62384033203125" lry="697.13763427734375">
+          <line>
+            <del>свою</del>                  <add place="above">одинъ </add><add place="above">для</add><add place="above">забавы</add></line>
+        </zone>
+        <zone ulx="214.52293395996094" uly="813.89910888671875" lrx="214.52293395996094" lry="741.2293701171875">
+          <line>
+            <del>Одинъ,</del>  </line>
+        </zone>
+        <zone ulx="377.00918579101562" uly="805.73394775390625" lrx="377.00918579101562" lry="734.697265625">
+          <line>
+            <del>Поетъ<hi rend="underline">Поетъ</hi></del> </line>
+        </zone>
+        <zone ulx="645.6422119140625" uly="793.48626708984375" lrx="645.6422119140625" lry="711.01837158203125">
+          <line>безъумысла, </line>
+        </zone>
+        <zone ulx="1143.715576171875" uly="782.0550537109375" lrx="1143.715576171875" lry="714.284423828125">
+          <line>невѣдаетъ  </line>
+        </zone>
+        <zone ulx="1478.4862060546875" uly="767.3577880859375" lrx="1478.4862060546875" lry="706.935791015625">
+          <line>ниславы</line>
+        </zone>
+        <zone ulx="1298.853271484375" uly="815.5321044921875" lrx="1298.853271484375" lry="753.47705078125" />
+        <zone ulx="341.89907836914063" uly="902.08258056640625" lrx="341.89907836914063" lry="804.10089111328125">
+          <line>Ни </line>
+        </zone>
+        <zone ulx="486.42202758789062" uly="907.79815673828125" lrx="486.42202758789062" lry="804.10089111328125">
+          <line>страха, </line>
+        </zone>
+        <zone ulx="762.4036865234375" uly="874.32110595703125" lrx="762.4036865234375" lry="800.8348388671875">
+          <line>ни  </line>
+        </zone>
+        <zone ulx="871" uly="891.4678955078125" lrx="871" lry="799.20184326171875">
+          <line>надеждъ </line>
+        </zone>
+        <zone ulx="1135.5504150390625" uly="873.50457763671875" lrx="1135.5504150390625" lry="791.85321044921875">
+          <line>– <del>безпечной</del><add place="above">надъ б□□□□□й□□□□</add> </line>
+        </zone>
+        <zone ulx="1454.807373046875" uly="880.85321044921875" lrx="1454.807373046875" lry="802.4678955078125">
+          <line>
+            <del>для</del> </line>
+        </zone>
+        <zone ulx="1596.8807373046875" uly="867.78900146484375" lrx="1596.8807373046875" lry="804.10089111328125">
+          <line>
+            <del>забавы</del>
+          </line>
+        </zone>
+        <zone ulx="755.87158203125" uly="915.96331787109375" lrx="755.87158203125" lry="857.9908447265625" />
+        <zone ulx="1095.541259765625" uly="909.43121337890625" lrx="1095.541259765625" lry="871.0550537109375" />
+        <zone ulx="359.04586791992187" uly="986.1834716796875" lrx="359.04586791992187" lry="892.284423828125">
+          <line>
+            <del>Поетъ, </del>
+          </line>
+        </zone>
+        <zone ulx="621.96331787109375" uly="969.85321044921875" lrx="621.96331787109375" lry="904.5321044921875">
+          <line>
+            <del>и </del>
+          </line>
+        </zone>
+        <zone ulx="716.67889404296875" uly="963.32110595703125" lrx="716.67889404296875" lry="909.43121337890625">
+          <line>
+            <del>радуетъ<hi rend="underline">радуетъ</hi></del>
+            <add place="above">
+              <del>веселитъ</del>
+            </add> <add place="above"><del>свой</del></add></line>
+        </zone>
+        <zone ulx="1126.56884765625" uly="944.541259765625" lrx="1126.56884765625" lry="896.366943359375">
+          <line>
+            <del>св</del> </line>
+        </zone>
+        <zone ulx="1254.761474609375" uly="938.82568359375" lrx="1254.761474609375" lry="890.6513671875">
+          <line>
+            <del>надъ</del>  </line>
+        </zone>
+        <zone ulx="1519.3118896484375" uly="933.9266357421875" lrx="1519.3118896484375" lry="875.9541015625">
+          <line>
+            <del>путь</del> - </line>
+        </zone>
+        <zone ulx="1122.4862060546875" uly="987" lrx="1122.4862060546875" lry="940.458740234375" />
+        <zone ulx="1124.935791015625" uly="1027.0091552734375" lrx="1124.935791015625" lry="978.01837158203125" />
+        <zone ulx="1274.3577880859375" uly="1013.12841796875" lrx="1274.3577880859375" lry="967.4036865234375" />
+        <zone ulx="1449.908203125" uly="1009.0458984375" lrx="1449.908203125" lry="958.4219970703125" />
+        <zone ulx="1363.3577880859375" uly="1035.17431640625" lrx="1363.3577880859375" lry="997.61468505859375">
+          <line>
+            <add place="above">                                                       <del>смиренный</del></add>
+            <add place="above">                                                <add place="above"><del>надъ</del></add>              <add place="above"><del>бездной</del></add>тихо<add place="above"><del>мрачной</del></add></add>
+          </line>
+        </zone>
+        <zone ulx="365.57797241210937" uly="1070.284423828125" lrx="365.57797241210937" lry="980.4678955078125">
+          <line>
+            <del>Какъ</del>                                        </line>
+        </zone>
+        <zone ulx="1325.7982177734375" uly="1080.8990478515625" lrx="1325.7982177734375" lry="1021.2935791015625">
+          <line> и </line>
+        </zone>
+        <zone ulx="1413.1651611328125" uly="1076.8165283203125" lrx="1413.1651611328125" lry="1005.7798461914062">
+          <line>бога </line>
+        </zone>
+        <zone ulx="1610.761474609375" uly="1094.77978515625" lrx="1610.761474609375" lry="1014.761474609375">
+          <line>полнъ</line>
+        </zone>
+        <zone ulx="880.79815673828125" uly="1102.9449462890625" lrx="880.79815673828125" lry="1035.9908447265625" />
+        <zone ulx="1017.1559448242187" uly="1107.0274658203125" lrx="1017.1559448242187" lry="1043.3394775390625" />
+        <zone ulx="409.66973876953125" uly="1153.56884765625" lrx="409.66973876953125" lry="1081.715576171875">
+          <line>
+            <del>Свой </del>
+          </line>
+        </zone>
+        <zone ulx="630.12841796875" uly="1160.91748046875" lrx="630.12841796875" lry="1084.981689453125">
+          <line>
+            <del>путь </del>     <add place="above">свой</add> <add place="above">путь</add>     </line>
+        </zone>
+        <zone ulx="1138.8165283203125" uly="1155.2017822265625" lrx="1138.8165283203125" lry="1063.7523193359375">
+          <line> надъ  </line>
+        </zone>
+        <zone ulx="1334.77978515625" uly="1168.26611328125" lrx="1334.77978515625" lry="1067.018310546875">
+          <line> бездной  </line>
+        </zone>
+        <zone ulx="1552.7889404296875" uly="1161.73388671875" lrx="1552.7889404296875" lry="1069.4678955078125">
+          <line>волнъ</line>
+        </zone>
+        <zone ulx="381.90826416015625" uly="1307.889892578125" lrx="381.90826416015625" lry="1171.5321044921875">
+          <line>На </line>
+        </zone>
+        <zone ulx="581.9541015625" uly="1294.82568359375" lrx="581.9541015625" lry="1199.2935791015625">
+          <line>море </line>
+        </zone>
+        <zone ulx="806.49542236328125" uly="1301.3577880859375" lrx="806.49542236328125" lry="1194.39453125">
+          <line>жизненномъ,</line>
+        </zone>
+        <zone ulx="1286.60546875" uly="1268.697265625" lrx="1286.60546875" lry="1196.843994140625">
+          <line> гдѣ </line>
+        </zone>
+        <zone ulx="1438.47705078125" uly="1288.2935791015625" lrx="1438.47705078125" lry="1190.3118896484375">
+          <line>бури </line>
+        </zone>
+        <zone ulx="1621.3760986328125" uly="1286.6605224609375" lrx="1621.3760986328125" lry="1222.156005859375">
+          <line>такъ                                            </line>
+        </zone>
+        <zone ulx="1258.0274658203125" uly="1345.4495849609375" lrx="1258.0274658203125" lry="1258.8990478515625">
+          <line>жестоко                                                                                               </line>
+        </zone>
+      </surface>
+    </surfaceGrp>
+  </sourceDoc>
+</TEI>
